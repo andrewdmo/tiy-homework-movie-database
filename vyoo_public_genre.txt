@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table border="1" style="border-collapse:collapse">
+<tr><th>genre_pk</th><th>Genre type</th></tr>
+<tr><td>1</td><td>drama</td></tr>
+<tr><td>2</td><td>comedy</td></tr>
+<tr><td>3</td><td>romance</td></tr>
+<tr><td>4</td><td>war<br/></td></tr>
+<tr><td>5</td><td>horror</td></tr>
+<tr><td>6</td><td>documentary</td></tr>
+<tr><td>7</td><td>action</td></tr>
+<tr><td>8</td><td>scifi</td></tr>
+<tr><td>9</td><td>musical</td></tr>
+<tr><td>10</td><td>kids</td></tr>
+</table>
+</body>
+</html>

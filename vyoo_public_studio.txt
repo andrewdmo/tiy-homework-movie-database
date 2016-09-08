@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table border="1" style="border-collapse:collapse">
+<tr><th>studio_pk</th><th>studio name</th></tr>
+<tr><td>1</td><td>Warner Bros.</td></tr>
+<tr><td>2</td><td>Paramount</td></tr>
+<tr><td>3</td><td>Universal</td></tr>
+<tr><td>4</td><td>Columbia</td></tr>
+<tr><td>5</td><td>MGM</td></tr>
+<tr><td>6</td><td>RKO Radio</td></tr>
+<tr><td>7</td><td>Fox</td></tr>
+<tr><td>8</td><td>Lucasfilm</td></tr>
+<tr><td>9</td><td>DreamWorks</td></tr>
+<tr><td>10</td><td>United Artists</td></tr>
+</table>
+</body>
+</html>
