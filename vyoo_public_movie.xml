@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <movie_pk>1</movie_pk>
+  <title>Batman</title>
+  <genreid>7</genreid>
+  <Release_year>1989</Release_year>
+  <studioid>1</studioid>
+  <directorid>4</directorid>
+  <review>8</review>
+</row>
+<row>
+  <movie_pk>4</movie_pk>
+  <title>Last Crusade</title>
+  <genreid>7</genreid>
+  <Release_year>1989</Release_year>
+  <studioid>2</studioid>
+  <directorid>1</directorid>
+  <review>9</review>
+</row>
+<row>
+  <movie_pk>3</movie_pk>
+  <title>Xmas Vacation</title>
+  <genreid>2</genreid>
+  <Release_year>1989</Release_year>
+  <studioid>1</studioid>
+  <directorid>5</directorid>
+  <review>7</review>
+</row>
+<row>
+  <movie_pk>11</movie_pk>
+  <title>Blade Runner</title>
+  <genreid>1</genreid>
+  <Release_year>1982</Release_year>
+  <studioid>1</studioid>
+  <directorid>3</directorid>
+  <review>9</review>
+</row>
+<row>
+  <movie_pk>9</movie_pk>
+  <title>Mars Attacks</title>
+  <genreid>4</genreid>
+  <Release_year>1996</Release_year>
+  <studioid>1</studioid>
+  <directorid>4</directorid>
+  <review>6</review>
+</row>
+<row>
+  <movie_pk>5</movie_pk>
+  <title>Road House</title>
+  <genreid>7</genreid>
+  <Release_year>1989</Release_year>
+  <studioid>10</studioid>
+  <directorid>6</directorid>
+  <review>4</review>
+</row>
+<row>
+  <movie_pk>13</movie_pk>
+  <title>Gladiator</title>
+  <genreid>1</genreid>
+  <Release_year>2000</Release_year>
+  <studioid>3</studioid>
+  <directorid>3</directorid>
+  <review>8</review>
+</row>
+<row>
+  <movie_pk>6</movie_pk>
+  <title>E.T.</title>
+  <genreid>1</genreid>
+  <Release_year>1982</Release_year>
+  <studioid>3</studioid>
+  <directorid>1</directorid>
+  <review>10</review>
+</row>
+<row>
+  <movie_pk>14</movie_pk>
+  <title>Avengers</title>
+  <genreid>8</genreid>
+  <Release_year>1998</Release_year>
+  <studioid>1</studioid>
+  <directorid>5</directorid>
+  <review>6</review>
+</row>
+<row>
+  <movie_pk>2</movie_pk>
+  <title>Fear and Loathing</title>
+  <genreid>2</genreid>
+  <Release_year>1998</Release_year>
+  <studioid>3</studioid>
+  <directorid>9</directorid>
+  <review>7</review>
+</row>
+</data>

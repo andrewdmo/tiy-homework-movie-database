@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseColorSettings">
+    <colors>
+      <entry key="b873d00f-b6cc-4fe2-aa5a-36a8467156b6:NONE" value="Blue" />
+      <entry key="dir_genre_link/public/vyoo/b873d00f-b6cc-4fe2-aa5a-36a8467156b6:TABLE" value="Orange" />
+      <entry key="movie/public/vyoo/b873d00f-b6cc-4fe2-aa5a-36a8467156b6:TABLE" value="Green" />
+    </colors>
+  </component>
+</project>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <dir_genre_pk>1</dir_genre_pk>
+  <dir_fk>1</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>2</dir_genre_pk>
+  <dir_fk>1</dir_fk>
+  <genre_fk>4</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>3</dir_genre_pk>
+  <dir_fk>1</dir_fk>
+  <genre_fk>8</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>4</dir_genre_pk>
+  <dir_fk>1</dir_fk>
+  <genre_fk>7</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>5</dir_genre_pk>
+  <dir_fk>2</dir_fk>
+  <genre_fk>8</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>6</dir_genre_pk>
+  <dir_fk>2</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>7</dir_genre_pk>
+  <dir_fk>2</dir_fk>
+  <genre_fk>2</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>8</dir_genre_pk>
+  <dir_fk>3</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>9</dir_genre_pk>
+  <dir_fk>3</dir_fk>
+  <genre_fk>5</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>10</dir_genre_pk>
+  <dir_fk>3</dir_fk>
+  <genre_fk>8</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>11</dir_genre_pk>
+  <dir_fk>4</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>12</dir_genre_pk>
+  <dir_fk>4</dir_fk>
+  <genre_fk>9</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>13</dir_genre_pk>
+  <dir_fk>4</dir_fk>
+  <genre_fk>10</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>14</dir_genre_pk>
+  <dir_fk>5</dir_fk>
+  <genre_fk>2</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>15</dir_genre_pk>
+  <dir_fk>5</dir_fk>
+  <genre_fk>7</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>16</dir_genre_pk>
+  <dir_fk>6</dir_fk>
+  <genre_fk>7</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>17</dir_genre_pk>
+  <dir_fk>7</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>18</dir_genre_pk>
+  <dir_fk>7</dir_fk>
+  <genre_fk>2</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>19</dir_genre_pk>
+  <dir_fk>7</dir_fk>
+  <genre_fk>3</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>20</dir_genre_pk>
+  <dir_fk>8</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>21</dir_genre_pk>
+  <dir_fk>8</dir_fk>
+  <genre_fk>5</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>22</dir_genre_pk>
+  <dir_fk>9</dir_fk>
+  <genre_fk>2</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>23</dir_genre_pk>
+  <dir_fk>9</dir_fk>
+  <genre_fk>9</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>24</dir_genre_pk>
+  <dir_fk>10</dir_fk>
+  <genre_fk>1</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>25</dir_genre_pk>
+  <dir_fk>10</dir_fk>
+  <genre_fk>3</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>26</dir_genre_pk>
+  <dir_fk>10</dir_fk>
+  <genre_fk>4</genre_fk>
+</row>
+<row>
+  <dir_genre_pk>27</dir_genre_pk>
+  <dir_fk>10</dir_fk>
+  <genre_fk>6</genre_fk>
+</row>
+</data>

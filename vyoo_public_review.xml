@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <review_pk>1</review_pk>
+  <rottentomatoes>10</rottentomatoes>
+</row>
+<row>
+  <review_pk>2</review_pk>
+  <rottentomatoes>20</rottentomatoes>
+</row>
+<row>
+  <review_pk>3</review_pk>
+  <rottentomatoes>30</rottentomatoes>
+</row>
+<row>
+  <review_pk>4</review_pk>
+  <rottentomatoes>40</rottentomatoes>
+</row>
+<row>
+  <review_pk>5</review_pk>
+  <rottentomatoes>50</rottentomatoes>
+</row>
+<row>
+  <review_pk>6</review_pk>
+  <rottentomatoes>60</rottentomatoes>
+</row>
+<row>
+  <review_pk>7</review_pk>
+  <rottentomatoes>70</rottentomatoes>
+</row>
+<row>
+  <review_pk>8</review_pk>
+  <rottentomatoes>80</rottentomatoes>
+</row>
+<row>
+  <review_pk>9</review_pk>
+  <rottentomatoes>90</rottentomatoes>
+</row>
+<row>
+  <review_pk>10</review_pk>
+  <rottentomatoes>100</rottentomatoes>
+</row>
+</data>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <genre_pk>1</genre_pk>
+  <Genre_type>drama</Genre_type>
+</row>
+<row>
+  <genre_pk>2</genre_pk>
+  <Genre_type>comedy</Genre_type>
+</row>
+<row>
+  <genre_pk>3</genre_pk>
+  <Genre_type>romance</Genre_type>
+</row>
+<row>
+  <genre_pk>4</genre_pk>
+  <Genre_type>war
+</Genre_type>
+</row>
+<row>
+  <genre_pk>5</genre_pk>
+  <Genre_type>horror</Genre_type>
+</row>
+<row>
+  <genre_pk>6</genre_pk>
+  <Genre_type>documentary</Genre_type>
+</row>
+<row>
+  <genre_pk>7</genre_pk>
+  <Genre_type>action</Genre_type>
+</row>
+<row>
+  <genre_pk>8</genre_pk>
+  <Genre_type>scifi</Genre_type>
+</row>
+<row>
+  <genre_pk>9</genre_pk>
+  <Genre_type>musical</Genre_type>
+</row>
+<row>
+  <genre_pk>10</genre_pk>
+  <Genre_type>kids</Genre_type>
+</row>
+</data>
